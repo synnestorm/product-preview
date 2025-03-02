@@ -72,6 +72,11 @@ span {
   font-weight: normal;
 }
 
+.info > img {
+  max-width: 100%;
+  width: 20px;
+}
+
 button {
   background-color: hsl(158, 36%, 37%);
   color: white;
