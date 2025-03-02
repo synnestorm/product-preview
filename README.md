@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://synnestorm.github.io/product-review]
 
 ## My process
 
@@ -43,8 +43,8 @@ I learned more about the use of flexbox, and how it works.
 
 ### Continued development
 
-I definitely need to practice positioning, the CSS box model and how to style images more.
+I definitely need to practice positioning, the CSS box model and how to style images more. If you use edge the image does not show up; i don't know why that is, but it shows up in chrome.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@synnestorm](https://www.frontendmentor.io/profile/synnestorm)
