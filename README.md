@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-of-perfume-using-html-and-css-BbYT3xiFMW)]
 - Live Site URL: [https://synnestorm.github.io/product-preview]
 
 ## My process
