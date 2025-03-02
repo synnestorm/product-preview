@@ -13,8 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -43,7 +41,7 @@ I learned more about the use of flexbox, and how it works.
 
 ### Continued development
 
-I definitely need to practice positioning, the CSS box model and how to style images more. If you use edge the image does not show up; i don't know why that is, but it shows up in chrome.
+I definitely need to practice positioning, the CSS box model and how to style images more.
 
 ## Author
 
